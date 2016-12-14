@@ -1,0 +1,10 @@
+{
+  "name": "doctor-kutan",
+  "version": "0.1.0",
+  "description": "A discord.js bot",
+  "author": "M. Bee <procrastinated@gmail.com>",
+  "dependencies": {
+    "discord.js": "10.0.1"
+  },
+  "private": true
+}

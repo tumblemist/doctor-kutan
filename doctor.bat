@@ -1,4 +1,4 @@
 @echo off
 title Doctor Kutan (BETA)
-node doctor.js
+node --harmony doctor.js
 pause
